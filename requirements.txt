@@ -1,1 +1,2 @@
 pytest
+git+http://git@github.com/acbass49/uvainstallablepackage.git@v0.0.0
